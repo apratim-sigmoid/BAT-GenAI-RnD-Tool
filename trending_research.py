@@ -328,7 +328,7 @@ def display_trending_research(df, all_docs):
     st.markdown("""
     <style>
     .trending-header {
-        background: linear-gradient(to bottom, #0053a4, #c4ddf2);
+        background: linear-gradient(to bottom, #0053a4, #80ADD7);
         color: white;
         padding: 5px 10px;  /* Reduced padding from 10px 15px */
         border-radius: 5px;
