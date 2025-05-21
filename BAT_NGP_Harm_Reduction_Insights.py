@@ -760,7 +760,7 @@ except:
     st.write("Logo image not found.")
 
 # Title
-st.title("BAT NGP Harm Reduction Insights")
+st.title("NGP Harm Reduction Insights")
 
 # Initialize session state for filters if they don't exist
 if 'publication_type' not in st.session_state:
