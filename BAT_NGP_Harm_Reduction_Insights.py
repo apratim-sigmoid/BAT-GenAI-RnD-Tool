@@ -755,7 +755,7 @@ def get_filtered_data(field_category, field_subcategory=None, matching_docs=None
 # Display logo
 try:
     logo = Image.open("Images/BAT-logo.png")
-    st.image(logo, width=200)
+    st.image(logo, width=160)
 except:
     st.write("Logo image not found.")
 
